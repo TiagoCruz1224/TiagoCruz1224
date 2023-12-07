@@ -18,7 +18,7 @@ Se estás a começar também, ou se já passaste por essa fase e queres dar uma 
 
 🌐 Onde Podes Encontrar-me:
 
-https://www.linkedin.com/in/tiago-cruz1224/
-https://www.instagram.com/tiagocruzdev/
+- https://www.linkedin.com/in/tiago-cruz1224/
+- https://www.instagram.com/tiagocruzdev/
 
 Juntos na jornada do código! 🚀
