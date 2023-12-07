@@ -8,13 +8,13 @@ Iniciante na programação, mas cheio de vontade de aprender e programar! Comece
 - ⚛️ React
 
 📚 Neste Momento:
-Explorando o mundo do React...
+  Explorando o mundo do React...
 
 🛠️ Projetos e Confusões:
-Dá uma vista de olhos nos meus repositórios para ver o que estou a criar no momento. De pequenos experimentos a projetos mais elaborados, estou aberto a sugestões e dicas.
+  Dá uma vista de olhos nos meus repositórios para ver o que estou a criar no momento. De pequenos experimentos a projetos mais elaborados, estou aberto a sugestões e dicas.
 
 💬 Vamos Conversar:
-Se estás a começar também, ou se já passaste por essa fase e me queres ajudar, diz qualquer coisa! Estou sempre aberto a dicas, conselhos ou apenas para trocar umas ideias.
+  Se estás a começar também, ou se já passaste por essa fase e me queres ajudar, diz qualquer coisa! Estou sempre aberto a dicas, conselhos ou apenas para trocar umas ideias.
 
 🌐 Onde Podes Encontrar-me:
 
