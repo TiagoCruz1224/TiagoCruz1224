@@ -4,8 +4,8 @@ Iniciante na programação, mas cheio de vontade de aprender e programar! Comece
 
 🚀 As Minhas Aventuras:
 - 🌐 HTML/CSS
-💻 PHP/Laravel
-⚛️ React
+- 💻 PHP/Laravel
+- ⚛️ React
 
 📚 Neste Momento:
 Explorando o mundo do React...
