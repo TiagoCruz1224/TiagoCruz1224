@@ -16,7 +16,7 @@ Iniciante na programação, mas cheio de vontade de aprender e programar! Comece
 💬 Vamos Conversar:
   Se estás a começar também, ou se já passaste por essa fase e me queres ajudar, diz qualquer coisa! Estou sempre aberto a dicas, conselhos ou apenas para trocar umas ideias.
 
-🌐 Onde Podes Encontrar-me:
+🌐 Onde me podes encontrar:
 
 - https://www.linkedin.com/in/tiago-cruz1224/
 - https://www.instagram.com/tiagocruzdev/
