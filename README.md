@@ -3,8 +3,8 @@
 Iniciante na programação, mas cheio de vontade de aprender e programar! Comecei com HTML/CSS e agora estou a mergulhar de cabeça no PHP/Laravel e no mundo fascinante do React.
 
 🚀 As Minhas Aventuras:
-- 🌐 HTML/CSS
-- 💻 PHP/Laravel
+- 🌐 HTML/CSS/Tailwind
+- 💻 PHP/Laravel/Symfony
 - ⚛️ React
 
 📚 Neste Momento:
