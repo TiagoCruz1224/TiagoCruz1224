@@ -1,24 +1,29 @@
 👋 Olá, sou o Tiago Cruz!
 
-Iniciante na programação, mas cheio de vontade de aprender e programar! Comecei com HTML/CSS e agora estou a mergulhar de cabeça no PHP/Laravel e no mundo fascinante do React.
+Sou Fullstack Web Developer com experiência na construção de aplicações web modernas e interativas.
 
-🚀 As Minhas Aventuras:
-- 🌐 HTML/CSS/Tailwind
-- 💻 PHP/Laravel/Symfony
-- ⚛️ React
+🚀 As Minhas Aventuras no Mundo da Programação:
 
-📚 Neste Momento:
-  Explorando o mundo do React...
+Linguagens:
 
-🛠️ Projetos e Confusões:
-  Dá uma vista de olhos nos meus repositórios para ver o que estou a criar no momento. De pequenos experimentos a projetos mais elaborados, estou aberto a sugestões e dicas.
+🌐 JavaScript
+🐘 PHP
+💾 SQL
+Frameworks e Ferramentas:
 
-💬 Vamos Conversar:
-  Se estás a começar também, ou se já passaste por essa fase e me queres ajudar, diz qualquer coisa! Estou sempre aberto a dicas, conselhos ou apenas para trocar umas ideias.
+⚛️ React
+🚀 Laravel
+⚡ Symfony
+🎨 TailwindCSS
+🌐 APIs (Criação e consumo de APIs RESTful)
+📚 Neste Momento: Aprofundando o meu conhecimento em Laravel, e a melhorar cada vez mais as minhas aplicações.
+
+🛠️ Projetos e Desafios: Nos meus repositórios, encontrarás desde pequenos projetos experimentais até soluções mais completas que estou a desenvolver. Sempre aberto a sugestões e ideias para melhorar e aprender!
+
+💬 Vamos Conversar: Estou sempre disponível para uma boa troca de ideias sobre programação ou para discutir projetos. Se também és desenvolvedor ou estás a explorar o mundo do código, não hesites em contactar-me!
 
 🌐 Onde me podes encontrar:
 
 - https://www.linkedin.com/in/tiago-cruz1224/
-- https://www.instagram.com/tiagocruzdev/
 
 Juntos na jornada do código! 🚀
