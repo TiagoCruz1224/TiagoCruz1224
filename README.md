@@ -9,6 +9,7 @@ Linguagens:
 🌐 JavaScript
 🐘 PHP
 💾 SQL
+
 Frameworks e Ferramentas:
 
 ⚛️ React
