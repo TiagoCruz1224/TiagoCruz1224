@@ -38,6 +38,6 @@ I'm always available for a good exchange of ideas about programming or to discus
 
 🌐 Where to Find Me:
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/tiagocruz1224/)
 
 Together on the coding journey! 🚀
