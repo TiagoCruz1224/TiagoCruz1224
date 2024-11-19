@@ -1,10 +1,10 @@
-👋 Olá, sou o Tiago Cruz!
+👋 Hello, I'm Tiago Cruz!
 
-Sou Fullstack Web Developer com experiência na construção de aplicações web modernas e interativas.
+I'm a Fullstack Web Developer with experience in building modern and interactive web applications.
 
-🚀 As Minhas Aventuras no Mundo da Programação:
+🚀 My Adventures in the Programming World:
 
-Linguagens:
+Languages:
 
 🌐 JavaScript
 
@@ -12,7 +12,7 @@ Linguagens:
 
 💾 SQL
 
-Frameworks e Ferramentas:
+Frameworks and Tools:
 
 ⚛️ React
 
@@ -22,16 +22,22 @@ Frameworks e Ferramentas:
 
 🎨 TailwindCSS
 
-🌐 APIs (Criação e consumo de APIs RESTful)
+🌐 APIs (Creating and consuming RESTful APIs)
 
-📚 Neste Momento: Aprofundando o meu conhecimento em Laravel, e a melhorar cada vez mais as minhas aplicações.
+📚 Currently Exploring:
 
-🛠️ Projetos e Desafios: Nos meus repositórios, encontrarás desde pequenos projetos experimentais até soluções mais completas que estou a desenvolver. Sempre aberto a sugestões e ideias para melhorar e aprender!
+Deepening my knowledge in Laravel and continuously improving my applications.
 
-💬 Vamos Conversar: Estou sempre disponível para uma boa troca de ideias sobre programação ou para discutir projetos. Se também és desenvolvedor ou estás a explorar o mundo do código, não hesites em contactar-me!
+🛠️ Projects and Challenges:
 
-🌐 Onde me podes encontrar:
+In my repositories, you'll find everything from small experimental projects to more complete solutions that I'm developing. I'm always open to suggestions and ideas to improve and learn!
 
-- https://www.linkedin.com/in/tiago-cruz1224/
+💬 Let's Chat:
 
-Juntos na jornada do código! 🚀
+I'm always available for a good exchange of ideas about programming or to discuss projects. If you're also a developer or exploring the coding world, feel free to reach out to me!
+
+🌐 Where to Find Me:
+
+LinkedIn
+
+Together on the coding journey! 🚀
