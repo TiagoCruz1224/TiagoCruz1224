@@ -30,7 +30,7 @@ A free mobile game for Android, made solo: you inherit your grandfather's tasca 
 *Godot 4.7* · [Game page](https://tiagocruz1224.github.io/tascadoze-site/)
 
 <p align="center">
-  <a href="https://tiagocruz1224.github.io/#tasca"><img src="assets/tasca-trailer-cover.svg" width="640" alt="Tasca do Zé trailer, 27 seconds. Opens the trailer on the portfolio."></a>
+  <a href="https://tiagocruz1224.github.io/#trailer"><img src="assets/tasca-trailer-cover.svg" width="640" alt="Tasca do Zé trailer, 27 seconds. Opens the trailer on the portfolio."></a>
 </p>
 
 ## Inventory
