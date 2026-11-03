@@ -15,7 +15,7 @@ Content management system with a Symfony REST API and a Vue 3 admin dashboard. J
 
 <a href="https://bilabuffet.rf.gd/"><img src="assets/level-bila-buffet.svg" width="100%" alt="Level 2: Bila Buffet. In production. Opens the live site."></a>
 
-Website for a buffet restaurant, live in production and built solo. A responsive, multilingual single page; the daily and weekly menus are managed in the back office, with online reservations on a calendar, Google reviews with a fallback, SEO and image optimisation, and CI with automatic deploys.\
+Website for a buffet restaurant, live in production and built solo. A responsive, multilingual single page; the daily and weekly menus are managed in the back office, along with a reservation calendar (built, switched off for now: bookings go by phone or WhatsApp), Google reviews with a fallback, SEO and image optimisation, and CI with automatic deploys.\
 *Symfony 7.3 · Twig · EasyAdmin*
 
 <a href="https://tiagocruz1224.github.io/tascadoze-site/"><img src="assets/level-tasca-do-ze.svg" width="100%" alt="Level 3: Tasca do Zé. In development. Opens the game's page."></a>
