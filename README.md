@@ -4,7 +4,7 @@
 
 <p align="center"><b>Full Stack Developer · Backend-focused</b></p>
 
-Based in Portugal and working professionally since April 2025. I build web applications with PHP/Symfony on the backend and React on the frontend, and I'm focused on growing as a backend engineer: API design, data modelling, testing and writing secure code.
+Based in Portugal and working professionally since April 2025. I build web applications with PHP and Symfony, and I'm focused on growing as a backend engineer: API design, data modelling, testing and writing secure code.
 
 ## Levels
 
@@ -33,7 +33,7 @@ A free mobile game for Android, made solo: you inherit your grandfather's tasca 
 <img src="assets/tech-php.svg" height="34" alt="PHP"> <img src="assets/tech-symfony.svg" height="34" alt="Symfony"> <img src="assets/tech-doctrine-orm.svg" height="34" alt="Doctrine ORM"> <img src="assets/tech-mysql.svg" height="34" alt="MySQL"> <img src="assets/tech-rest-apis.svg" height="34" alt="REST APIs">
 
 **Frontend**\
-<img src="assets/tech-react.svg" height="34" alt="React"> <img src="assets/tech-vue-3.svg" height="34" alt="Vue 3"> <img src="assets/tech-javascript.svg" height="34" alt="JavaScript"> <img src="assets/tech-tailwind-css.svg" height="34" alt="Tailwind CSS">
+<img src="assets/tech-vue-3.svg" height="34" alt="Vue 3"> <img src="assets/tech-javascript.svg" height="34" alt="JavaScript"> <img src="assets/tech-tailwind-css.svg" height="34" alt="Tailwind CSS">
 
 **Tooling**\
 <img src="assets/tech-git.svg" height="34" alt="Git"> <img src="assets/tech-linux-wsl.svg" height="34" alt="Linux/WSL"> <img src="assets/tech-python-for-scripting.svg" height="34" alt="Python for scripting">
