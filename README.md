@@ -8,7 +8,7 @@
 
 ## Player profile
 
-<img src="assets/player-profile.svg" width="100%" alt="Player profile: Tiago Cruz, full stack developer, backend-focused. Working since Apr 2025. Backend: PHP, Symfony. Scripting: Python. Setup: Linux/WSL. Side quest: games, in Godot.">
+<img src="assets/player-profile.svg" width="100%" alt="Player profile: Tiago Cruz, full stack developer, backend-focused. Working professionally since Apr 2025. Backend: PHP, Symfony. Database: MySQL. Frontend and games: JavaScript, GDScript. Side quest: making games.">
 
 I studied Communication and Multimedia at UTAD, where I built my first web applications, and since April 2025 I've been a full stack developer at Fullscreen, with a focus on the backend. I've played games since I was a kid, and I always wanted to make one of my own.
 
