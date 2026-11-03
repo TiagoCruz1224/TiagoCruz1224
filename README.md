@@ -29,7 +29,9 @@ Website for a buffet restaurant, live in production and built solo. A responsive
 A free mobile game for Android, made solo: you inherit your grandfather's tasca in Bragança and open tascas across the country. Coming soon to Google Play.\
 *Godot 4.7* · [Game page](https://tiagocruz1224.github.io/tascadoze-site/)
 
-<a href="https://tiagocruz1224.github.io/#tasca"><img src="assets/tasca-trailer-cover.svg" width="640" alt="Tasca do Zé trailer, 27 seconds. Opens the trailer on the portfolio."></a>
+<p align="center">
+  <a href="https://tiagocruz1224.github.io/#tasca"><img src="assets/tasca-trailer-cover.svg" width="640" alt="Tasca do Zé trailer, 27 seconds. Opens the trailer on the portfolio."></a>
+</p>
 
 ## Inventory
 
@@ -52,4 +54,6 @@ I have also used Laravel in an academic project.
 
 ## Party up
 
-<a href="https://www.linkedin.com/in/tiagocruz1224/"><img src="assets/party-up.svg" height="56" alt="Message me on LinkedIn"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/tiagocruz1224/"><img src="assets/party-up.svg" height="56" alt="Message me on LinkedIn"></a>
+</p>
