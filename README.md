@@ -36,21 +36,19 @@ A free mobile game for Android, made solo: you inherit your grandfather's tasca 
 ## Inventory
 
 **Backend**\
-<img src="assets/tech-php.svg" height="34" alt="PHP"> <img src="assets/tech-symfony.svg" height="34" alt="Symfony"> <img src="assets/tech-doctrine-orm.svg" height="34" alt="Doctrine ORM"> <img src="assets/tech-mysql.svg" height="34" alt="MySQL"> <img src="assets/tech-rest-apis.svg" height="34" alt="REST APIs">
+<img src="assets/tech-php.svg" height="34" alt="PHP"> <img src="assets/tech-symfony.svg" height="34" alt="Symfony"> <img src="assets/tech-laravel.svg" height="34" alt="Laravel"> <img src="assets/tech-mysql.svg" height="34" alt="MySQL"> <img src="assets/tech-rest-apis.svg" height="34" alt="REST APIs">
 
 **Frontend**\
-<img src="assets/tech-vue-3.svg" height="34" alt="Vue 3"> <img src="assets/tech-javascript.svg" height="34" alt="JavaScript"> <img src="assets/tech-tailwind-css.svg" height="34" alt="Tailwind CSS">
+<img src="assets/tech-javascript.svg" height="34" alt="JavaScript"> <img src="assets/tech-react.svg" height="34" alt="React"> <img src="assets/tech-vue-3.svg" height="34" alt="Vue 3"> <img src="assets/tech-tailwind-css.svg" height="34" alt="Tailwind CSS"> <img src="assets/tech-godot-gdscript.svg" height="34" alt="Godot (GDScript)">
 
 **Tooling**\
 <img src="assets/tech-git.svg" height="34" alt="Git"> <img src="assets/tech-linux-wsl.svg" height="34" alt="Linux/WSL"> <img src="assets/tech-python-for-scripting.svg" height="34" alt="Python for scripting">
 
-I have also used Laravel in an academic project.
-
 ## Quest log
 
-- **Main quest:** strengthening my backend skills: Symfony, automated testing and API design.
+- **Main quest:** Grow into a backend engineer people can count on: clean APIs, solid tests and secure code.
 - **Side quest:** Tasca do Zé, coming soon to Google Play.
-- **Long-term:** application security and AI security.
+- **Long-term:** Take my games further than a side quest, and specialise in cybersecurity, AI security above all.
 
 ## Party up
 
