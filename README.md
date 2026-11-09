@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Tiago Cruz. A map whose route starts at the Prologue, level 0, then crosses three levels: CMS, Bila Buffet and Tasca do Zé, and a locked level.">
+  <img src="assets/header.svg" width="100%" alt="Tiago Cruz. A map whose route starts at the Prologue, level 0, then crosses four levels: CMS, Bila Buffet, Tasca do Zé and Scorewright.">
 </p>
 
 <p align="center">
@@ -32,6 +32,11 @@ A free mobile game for Android, made solo: you inherit your grandfather's tasca 
 <p align="center">
   <a href="https://tiagocruz1224.github.io/#trailer"><img src="assets/tasca-trailer-cover.svg" width="640" alt="Tasca do Zé trailer, 27 seconds. Opens the trailer on the portfolio."></a>
 </p>
+
+<a href="https://tiagocruz1224.github.io/#scorewright"><img src="assets/level-scorewright.svg" width="100%" alt="Level 4: Scorewright. Open source, v0.1.0. Opens the Scorewright level on the portfolio."></a>
+
+An open-source web app for evaluating the answers of AI systems: test cases, rubrics with manual scores and automatic checks, blind evaluations, and the comparison of runs, case by case.\
+*Symfony 7.4 · PHP 8.5 · PostgreSQL · React 19 · Tailwind CSS 4 · Docker* · [Source on GitHub](https://github.com/TiagoCruz1224/scorewright) · [Usage guide](https://github.com/TiagoCruz1224/scorewright/blob/main/docs/guide.md)
 
 ## Inventory
 
