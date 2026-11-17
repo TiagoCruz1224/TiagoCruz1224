@@ -41,6 +41,7 @@ An open-source web app for evaluating the answers of AI systems: test cases, rub
 ## Achievements
 
 - **Contributor to the official PHP manual:** 3 merged pull requests in [php/doc-en](https://github.com/php/doc-en/pulls?q=is%3Apr+author%3ATiagoCruz1224+is%3Amerged) (November 2026): documenting the errors of `ZipArchive::close()`, fixing the PHP version of a return type on 16 pages, and updating the `dba` pages.
+- **Contributor to Symfony:** reviewed the European Portuguese translations of the Form, Security and Validator components, merged into Symfony 6.4 ([symfony/symfony#68222](https://github.com/symfony/symfony/pull/68222), November 2026).
 
 ## Inventory
 
