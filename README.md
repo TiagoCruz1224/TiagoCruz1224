@@ -38,6 +38,10 @@ A free mobile game for Android, made solo: you inherit your grandfather's tasca 
 An open-source web app for evaluating the answers of AI systems: test cases, rubrics with manual scores and automatic checks, blind evaluations, and the comparison of runs, case by case.\
 *Symfony 7.4 · PHP 8.5 · PostgreSQL · React 19 · Tailwind CSS 4 · Docker* · [Source on GitHub](https://github.com/TiagoCruz1224/scorewright) · [Usage guide](https://github.com/TiagoCruz1224/scorewright/blob/main/docs/guide.md)
 
+## Achievements
+
+- **Contributor to the official PHP manual:** 3 merged pull requests in [php/doc-en](https://github.com/php/doc-en/pulls?q=is%3Apr+author%3ATiagoCruz1224+is%3Amerged) (November 2026): documenting the errors of `ZipArchive::close()`, fixing the PHP version of a return type on 16 pages, and updating the `dba` pages.
+
 ## Inventory
 
 **Backend**\
